@@ -21,6 +21,7 @@ Over the past year with Formula Student, I’ve taken on increasingly complex en
 
 As part of a course, my team and I developed an active rear aerodynamic spoiler that dynamically adjusts based on velocity, downforce, and drag to optimize performance. The system was modeled with MATLAB simulations and validated against publicly available NASCAR data. By referencing the Circuit of The Americas (COTA) track, we analyzed how the spoiler could improve stability and efficiency across varying track conditions, adjusting for high-speed straights and tight corners. The project required a deep understanding of vehicle aerodynamics, control systems, and system dynamics modeling, making it an exercise in both theoretical analysis and practical application.
 
+Link to report follows: 
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
 ## Accessible Table Design: True Inclusion 
@@ -36,6 +37,8 @@ For a manufacturing and design course, I worked with a team to develop an access
 -Adjustable surface angles, allowing for better ergonomics and accessibility for users with different mobility needs.
 
 The project combined ergonomic design, user-centered engineering, and manufacturing techniques, demonstrating the intersection of engineering and inclusivity. It also reinforced the importance of direct client engagement to ensure functional and user-friendly solutions.
+
+Link to report follows: 
 [MCG2101_Final_Report.pdf](https://github.com/user-attachments/files/19041704/MCG2101_Final_Report.pdf)
 
 
@@ -50,6 +53,8 @@ Using S-Frame and SolidWorks, we conducted extensive simulations and structural 
 
 This project showcases our expertise in structural design, engineering analysis, and collaborative problem-solving, reinforcing our ability to apply academic knowledge to real-world engineering challenges.
 ![Screenshot 2025-03-01 230935](https://github.com/user-attachments/assets/b5a40e86-a152-498e-b46c-6eebdf6c819d)
+
+Link to report follows: 
 [CVG2140_Final_Report.pdf](https://github.com/user-attachments/files/19041701/CVG2140_Final_Report.pdf)
 
 
