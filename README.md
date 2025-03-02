@@ -19,12 +19,17 @@ Over the past year with Formula Student, I’ve taken on increasingly complex en
 
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
-
 As part of a course, my team and I developed an active rear aerodynamic spoiler that dynamically adjusts based on velocity, downforce, and drag to optimize performance. The system was modeled with MATLAB simulations and validated against publicly available NASCAR data. By referencing the Circuit of The Americas (COTA) track, we analyzed how the spoiler could improve stability and efficiency across varying track conditions, adjusting for high-speed straights and tight corners. The project required a deep understanding of vehicle aerodynamics, control systems, and system dynamics modeling, making it an exercise in both theoretical analysis and practical application.
+![car](https://github.com/user-attachments/assets/cd126ab1-ec09-4d08-942d-34c1fc909256)
+![AnglesPlotted vs Time](https://github.com/user-attachments/assets/a00b6a43-51f7-48b7-96be-e9d25080466d)
+
+
 
 
 ## Accessible Table Design: True Inclusion 
 #### uOttawa Project Management Course [Sept-Dec 2023]
+
+[MCG2101_Final_Report.pdf](https://github.com/user-attachments/files/19041704/MCG2101_Final_Report.pdf)
 
 For a manufacturing and design course, I worked with a team to develop an accessible play table tailored for a young client with disabilities. Our objective was to create a highly adaptable and inclusive design, featuring:
 
@@ -33,13 +38,14 @@ For a manufacturing and design course, I worked with a team to develop an access
 -Interchangeable mounting surfaces to support different tools and equipment.
 -Adjustable surface angles, allowing for better ergonomics and accessibility for users with different mobility needs.
 
-![Screenshot 2025-03-01 231312](https://github.com/user-attachments/assets/2bcd76be-591e-4027-8f05-1dbe1f150496)
-
 The project combined ergonomic design, user-centered engineering, and manufacturing techniques, demonstrating the intersection of engineering and inclusivity. It also reinforced the importance of direct client engagement to ensure functional and user-friendly solutions.
+![Screenshot 2025-03-01 231312](https://github.com/user-attachments/assets/2bcd76be-591e-4027-8f05-1dbe1f150496)
 
 
 # Pratt Truss Bridge Construction: A Structural Engineering Success 
 #### uOttawa Mechanics of Materials Course [Jan-Apr 2023]
+
+[CVG2140_Final_Report.pdf](https://github.com/user-attachments/files/19041701/CVG2140_Final_Report.pdf)
 
 From January to March 2023, our team successfully designed and built a Pratt truss bridge, combining theoretical engineering principles with practical application. Through meticulous structural analysis using Euler’s buckling formula and stress equations, we validated the superior load-carrying capacity of the Pratt truss compared to a Howe truss.
 
@@ -50,6 +56,8 @@ Using S-Frame and SolidWorks, we conducted extensive simulations and structural 
 This project showcases our expertise in structural design, engineering analysis, and collaborative problem-solving, reinforcing our ability to apply academic knowledge to real-world engineering challenges.
 
 ![Screenshot 2025-03-01 231018](https://github.com/user-attachments/assets/77b2fb14-28a1-4491-8664-b79843eebde0)
+
+
 
 
 
