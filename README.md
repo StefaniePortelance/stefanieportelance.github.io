@@ -27,7 +27,7 @@ As part of a course, my team and I developed an active rear aerodynamic spoiler 
 Link to report: 
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
-![car](https://github.com/user-attachments/assets/291d5d1f-b7ae-469b-8092-722db5d94a1a)
+<img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/car.jpg" width="300px">
 
 
 ## Accessible Table Design: True Inclusion 
