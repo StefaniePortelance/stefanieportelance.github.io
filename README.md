@@ -1,16 +1,19 @@
 
-![team pic with water towert](https://github.com/user-attachments/assets/e2dfa1c8-552f-47f6-b972-db7ab9f03f8c)
+![team pic with water towert](https://github.com/user-attachments/assets/c679864a-f4bd-440d-8381-4315dbc64736)
 
-# Academic Portfolio
-
+# My Portfolio
 
 ### BASc. Mechanical Engineering Student - University of Ottawa
 
-Welcome to my academic portfolio, where I showcase my engineering projects, research, and technical problem-solving skills. 
+Welcome to my portfolio, where I showcase my engineering projects, research, and technical problem-solving skills. 
 
 As a third-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects—including my involvement in Formula SAE—I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I bring analytical thinking and creativity to engineering solutions.
 
-## Formula SAE: My Favorite Team 
+
+![IMG_1903](https://github.com/user-attachments/assets/f2f51f0d-fde2-47a2-9e0d-d77c4d1de6e1)
+
+
+# Formula SAE: My Favorite Team 
 #### Member since February 2024
 
 ![1_GroupPic_a6300_DSC00944 (1)](https://github.com/user-attachments/assets/4b0964a7-f42c-46e4-adb8-c25b9568fc02)
@@ -19,7 +22,7 @@ As a third-year Mechanical Engineering student at the University of Ottawa, I ha
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on time, my primary focus has been on aerodynamics and structural design, where I worked on developing side pods using foam core composites and carbon fiber layups. I also contributed to data acquisition efforts, incorporating sensors to measure downforce and temperature for performance evaluation. I am currently focusing on redesigning the undertray for the 2026 model and have taken on utilizing CFD analysis to assess the performance of my design and overall refine the quality of the aerodynamic package. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. This past year has deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
 
 
-## Active Dynamic Spoiler: The Making of a _Faster_ Car!
+# Active Dynamic Spoiler: The Making of a _Faster_ Car!
 #### uOttawa System Dynamics Course [Sept-Dec 2024]
 
 As part of a course, my team and I developed an active rear aerodynamic spoiler that dynamically adjusts based on velocity, downforce, and drag to optimize performance. The system was modeled with MATLAB simulations and validated against publicly available NASCAR data. By referencing the Circuit of The Americas (COTA) track, we analyzed how the spoiler could improve stability and efficiency across varying track conditions, adjusting for high-speed straights and tight corners. The project required a deep understanding of vehicle aerodynamics, control systems, and system dynamics modeling, making it an exercise in both theoretical analysis and practical application.
@@ -30,7 +33,7 @@ Link to report:
 <img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/car.jpg" width="300"><img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/AnglesPlotted vs Time.png" width=
 "460">
 
-## Accessible Table Design: True Inclusion 
+# Accessible Table Design: True Inclusion 
 #### uOttawa Project Management Course [Sept-Dec 2023]
 
 For a manufacturing and design course, I worked with a team to develop an accessible play table tailored for a young client with disabilities. Our objective was to create a highly adaptable and inclusive design, featuring:
