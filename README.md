@@ -17,7 +17,8 @@ Over the past year with Formula Student, I’ve taken on increasingly complex en
 ## Active Dynamic Spoiler: The Making of a _Faster_ Car!
 #### uOttawa System Dynamics Course [Sept-Dec 2024]
 
-![car](https://github.com/user-attachments/assets/fe911aea-1528-4f67-9e26-5f062cea1bf9)
+<img src="C:\Users\stefp\OneDrive - University of Ottawa\Stefanie Important Doc\Portfolio Images\car.jpg" width="50"/>
+
 
 As part of a course, my team and I developed an active rear aerodynamic spoiler that dynamically adjusts based on velocity, downforce, and drag to optimize performance. The system was modeled with MATLAB simulations and validated against publicly available NASCAR data. By referencing the Circuit of The Americas (COTA) track, we analyzed how the spoiler could improve stability and efficiency across varying track conditions, adjusting for high-speed straights and tight corners. The project required a deep understanding of vehicle aerodynamics, control systems, and system dynamics modeling, making it an exercise in both theoretical analysis and practical application.
 
