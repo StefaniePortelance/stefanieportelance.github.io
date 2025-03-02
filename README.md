@@ -20,7 +20,7 @@ Over the past year with Formula Student, I’ve taken on increasingly complex en
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
 As part of a course, my team and I developed an active rear aerodynamic spoiler that dynamically adjusts based on velocity, downforce, and drag to optimize performance. The system was modeled with MATLAB simulations and validated against publicly available NASCAR data. By referencing the Circuit of The Americas (COTA) track, we analyzed how the spoiler could improve stability and efficiency across varying track conditions, adjusting for high-speed straights and tight corners. The project required a deep understanding of vehicle aerodynamics, control systems, and system dynamics modeling, making it an exercise in both theoretical analysis and practical application.
-![car](https://github.com/user-attachments/assets/cd126ab1-ec09-4d08-942d-34c1fc909256)
+<img src="(https://github.com/user-attachments/assets/cd126ab1-ec09-4d08-942d-34c1fc909256" width=50% height=50%>
 ![AnglesPlotted vs Time](https://github.com/user-attachments/assets/a00b6a43-51f7-48b7-96be-e9d25080466d)
 
 
