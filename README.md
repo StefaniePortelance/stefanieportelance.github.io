@@ -1,5 +1,4 @@
-
-![team pic with water towert](https://github.com/user-attachments/assets/c679864a-f4bd-440d-8381-4315dbc64736)
+<img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/image/team%20pic%20with%20water%20towert.jpg">
 
 # My Portfolio
 
