@@ -27,10 +27,11 @@ As part of a course, my team and I developed an active rear aerodynamic spoiler 
 Link to report: 
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
+![car](https://github.com/user-attachments/assets/291d5d1f-b7ae-469b-8092-722db5d94a1a)
+
+
 ## Accessible Table Design: True Inclusion 
 #### uOttawa Project Management Course [Sept-Dec 2023]
-
-![Screenshot 2025-03-01 231312](https://github.com/user-attachments/assets/2bcd76be-591e-4027-8f05-1dbe1f150496)
 
 For a manufacturing and design course, I worked with a team to develop an accessible play table tailored for a young client with disabilities. Our objective was to create a highly adaptable and inclusive design, featuring:
 
@@ -43,6 +44,8 @@ The project combined ergonomic design, user-centered engineering, and manufactur
 
 Link to report: 
 [MCG2101_Final_Report.pdf](https://github.com/user-attachments/files/19041704/MCG2101_Final_Report.pdf)
+
+![Screenshot 2025-03-01 231312](https://github.com/user-attachments/assets/2bcd76be-591e-4027-8f05-1dbe1f150496)
 
 
 # Pratt Truss Bridge Construction: A Structural Engineering Success 
