@@ -1,5 +1,4 @@
-# Academic Portfolio 
-### BASc. Mechanical Enigneering Student - University of Ottawa
+## BASc. Mechanical Enigneering Student - University of Ottawa
 
 Welcome to my academic portfolio, where I showcase my engineering projects, research, and technical problem-solving skills. 
 
@@ -7,8 +6,8 @@ As a third-year Mechanical Engineering student at the University of Ottawa, I ha
 
 ## Formula SAE
 #### Member since February 2024
-![team pic with water towert](https://github.com/user-att![1_GroupPic_a6300_DSC00944 (1)](https://github.com/user-attachments/assets/6b4151d5-a069-4f57-b9ad-fcba41cda880)
-achments/assets/76f13086-aeab-4d6d-bb4a-15a77c0bdd4c)
+
+![1_GroupPic_a6300_DSC00944 (1)](https://github.com/user-attachments/assets/4b0964a7-f42c-46e4-adb8-c25b9568fc02)
 
 
 Over the past year with Formula Student, I’ve taken on increasingly complex engineering challenges, refining both my technical and problem-solving skills. My primary focus has been on aerodynamics and structural design, where I worked on the development of the sidepods using foam core composites and carbon fiber layups. I also optimized the aerodynamic package, utilizing CFD analysis to assess the performance of our NACA 6412 airfoil and refine the design of the car’s aero elements. Additionally, I contributed to data acquisition efforts, incorporating sensors to measure downforce and temperature for performance evaluation. Beyond technical work, I’ve gained experience in cross-functional collaboration, working closely with other subsystems to integrate aerodynamic and cooling solutions efficiently. This past year has deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
