@@ -59,10 +59,11 @@ Using S-Frame and SolidWorks, we conducted extensive simulations and structural 
 
 This project showcases our expertise in structural design, engineering analysis, and collaborative problem-solving, reinforcing our ability to apply academic knowledge to real-world engineering challenges.
 
-![Screenshot 2025-03-01 230935](https://github.com/user-attachments/assets/b5a40e86-a152-498e-b46c-6eebdf6c819d)
-
 Link to report: 
 [CVG2140_Final_Report.pdf](https://github.com/user-attachments/files/19041701/CVG2140_Final_Report.pdf)
+
+![Screenshot 2025-03-01 230935](https://github.com/user-attachments/assets/b5a40e86-a152-498e-b46c-6eebdf6c819d)
+
 
 
 
