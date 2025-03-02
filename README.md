@@ -27,8 +27,8 @@ As part of a course, my team and I developed an active rear aerodynamic spoiler 
 Link to report: 
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
-<img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/car.jpg" width="300px"><img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/AnglesPlotted vs Time.png" width=
-"460px">
+<img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/car.jpg" width="300"><img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/AnglesPlotted vs Time.png" width=
+"460">
 
 ## Accessible Table Design: True Inclusion 
 #### uOttawa Project Management Course [Sept-Dec 2023]
