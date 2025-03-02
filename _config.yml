@@ -1,3 +1,7 @@
-theme: mundana
+theme: minima
+
+plugins: 
+  -jekyll-include-cache
+  
 
 
