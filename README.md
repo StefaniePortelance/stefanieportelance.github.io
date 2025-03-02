@@ -1,3 +1,6 @@
+
+![team pic with water towert](https://github.com/user-attachments/assets/e2dfa1c8-552f-47f6-b972-db7ab9f03f8c)
+
 # Academic Portfolio
 
 ### BASc. Mechanical Engineering Student - University of Ottawa
