@@ -12,7 +12,6 @@ As a third-year Mechanical Engineering student at the University of Ottawa, I ha
 
 <img src="https://github.com/StefaniePortelance/stefanieportelance.github.io/blob/main/assets/image/the_girls.JPG">
 
-
 # Formula SAE: My Favorite Team 
 #### Member since February 2024
 
