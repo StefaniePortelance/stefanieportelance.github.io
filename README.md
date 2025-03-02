@@ -1,4 +1,5 @@
-## BASc. Mechanical Enigneering Student - University of Ottawa
+# Academic Portfolio
+### BASc. Mechanical Enigneering Student - University of Ottawa
 
 Welcome to my academic portfolio, where I showcase my engineering projects, research, and technical problem-solving skills. 
 
