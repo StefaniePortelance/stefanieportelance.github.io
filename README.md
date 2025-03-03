@@ -1,7 +1,7 @@
 
 <img src="assets/image/team%20pic%20with%20water%20towert.jpg">
 
-# My Portfolio
+# Academic Portfolio
 
 ### BASc. Mechanical Engineering Student - University of Ottawa
 
@@ -10,9 +10,9 @@ Welcome to my portfolio, where I showcase my engineering projects, research, and
 As a third-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects—including my involvement in Formula SAE—I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I bring analytical thinking and creativity to engineering solutions.
 
 
-<img src="assets/image/the_girls.JPG">
+<img src="assets/image/the_girls.JPG" width="600">
 
-# Formula SAE: My Favorite Team 
+# Formula SAE: GeeGee Racing  
 #### Member since February 2024
 
 <img src="assets/image/Amigo_Group_Pic.jpg">
@@ -20,7 +20,7 @@ As a third-year Mechanical Engineering student at the University of Ottawa, I ha
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on time, my primary focus has been on aerodynamics and structural design, where I worked on developing side pods using foam core composites and carbon fiber layups. I also contributed to data acquisition efforts, incorporating sensors to measure downforce and temperature for performance evaluation. I am currently focusing on redesigning the undertray for the 2026 model and have taken on utilizing CFD analysis to assess the performance of my design and overall refine the quality of the aerodynamic package. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. This past year has deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
 
 
-# Active Dynamic Spoiler: The Making of a _Faster_ Car!
+# Active Dynamic Spoiler
 #### uOttawa System Dynamics Course [Sept-Dec 2024]
 
 As part of a course, my team and I developed an active rear aerodynamic spoiler that dynamically adjusts based on velocity, downforce, and drag to optimize performance. The system was modeled with MATLAB simulations and validated against publicly available NASCAR data. By referencing the Circuit of The Americas (COTA) track, we analyzed how the spoiler could improve stability and efficiency across varying track conditions, adjusting for high-speed straights and tight corners. The project required a deep understanding of vehicle aerodynamics, control systems, and system dynamics modeling, making it an exercise in both theoretical analysis and practical application.
@@ -28,7 +28,7 @@ As part of a course, my team and I developed an active rear aerodynamic spoiler 
 Link to report: 
 [MCG 3306 - Final Project Report.pdf](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
-<img src="assets/image/car.jpg" width="300"><img src="assets/image/AnglesPlotted vs Time.png" width="460">
+<img src="assets/image/car.jpg" width="280"><img src="assets/image/AnglesPlotted vs Time.png" width="390">
 
 # Accessible Table Design: True Inclusion 
 #### uOttawa Project Management Course [Sept-Dec 2023]
@@ -45,7 +45,7 @@ The project combined ergonomic design, user-centered engineering, and manufactur
 Link to report: 
 [MCG2101_Final_Report.pdf](https://github.com/user-attachments/files/19041704/MCG2101_Final_Report.pdf)
 
-<img src="assets/image/accessible_table.png">
+<img src="assets/image/accessible_table.png" width="460">
 
 
 # Pratt Truss Bridge Construction: A Structural Engineering Success 
@@ -62,7 +62,7 @@ This project showcases our expertise in structural design, engineering analysis,
 Link to report: 
 [CVG2140_Final_Report.pdf](https://github.com/user-attachments/files/19041701/CVG2140_Final_Report.pdf)
 
-<img src="assets/image/Solidoworks_Bridge.png">
+<img src="assets/image/Solidoworks_Bridge.png" width="460">
 
 
 
