@@ -15,11 +15,11 @@ As a third-year Mechanical Engineering student at the University of Ottawa, I ha
 # Formula SAE: GeeGee Racing Team
 #### Member since February 2024
 
-<img src="assets/image/Amigo_Group_Pic.jpg">
-
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on time, my primary focus has been on aerodynamics and structural design, where I worked on developing side pods using foam core composites and carbon fiber layups. I also contributed to data acquisition efforts, incorporating sensors to measure downforce and temperature for performance evaluation.
 
 I am currently focusing on redesigning the undertray for the 2026 model and have taken on utilizing CFD analysis to assess the performance of my design and overall refine the quality of the aerodynamic package. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. This past year has deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
+
+<img src="assets/image/Amigo_Group_Pic.jpg">
 
 
 # Active Dynamic Spoiler
