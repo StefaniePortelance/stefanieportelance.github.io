@@ -1,5 +1,5 @@
 
-<img src="assets/image/team%20pic%20with%20water%20towert.jpg">
+<img src="assets/image/Stef pic car CROPPED.jpg">
 
 # Academic Portfolio
 
