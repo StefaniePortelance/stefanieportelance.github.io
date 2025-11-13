@@ -10,10 +10,10 @@ Welcome to my portfolio, where I showcase my engineering projects, research, and
 As a fourth-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects, including my involvement in Formula SAE as Drivetrain Lead, I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I have been able to bring analytical thinking and creativity to engineering solutions alongside my peers.
 
 
-<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="400"> <img src="assets/image/FARAN MAX STEF.JPG" width="400">
+<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="350"> <img src="assets/image/FARAN MAX STEF.JPG" width="350">
 
 # Formula SAE: GeeGee Racing Team
-### </dd> Drivetrain Lead and Proud Member since February 2024
+### Drivetrain Lead and Proud Member since February 2024
 
 
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on the team I have bounced around roles, learning different components of the car through varying substeams. I began my journey as an aerodynamics associate where my studies revolved structural design and carbon fiber airfoil construction and have since become drivetrain lead where I analyse on-track telemetry and compare it to theoretical values for drive optimization. 
