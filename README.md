@@ -10,7 +10,7 @@ Welcome to my portfolio, where I showcase my engineering projects, research, and
 As a third-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects—including my involvement in Formula SAE—I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I have been able to bring analytical thinking and creativity to engineering solutions alongside my peers.
 
 
-<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="400"> <img src="assets/image/FARAN MAX STEF.JPG" width="400">
+<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="350"> <img src="assets/image/FARAN MAX STEF.JPG" width="350">
 
 # Formula SAE: GeeGee Racing Team
 #### Member since February 2024
