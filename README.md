@@ -7,17 +7,18 @@
 
 Welcome to my portfolio, where I showcase my engineering projects, research, and technical problem-solving skills. 
 
-As a third-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects—including my involvement in Formula SAE—I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I have been able to bring analytical thinking and creativity to engineering solutions alongside my peers.
+As a fourth-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects, including my involvement in Formula SAE as Drivetrain Lead, I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I have been able to bring analytical thinking and creativity to engineering solutions alongside my peers.
 
 
-<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="300"> <img src="assets/image/FARAN MAX STEF.JPG" width="300">
+<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="400"> <img src="assets/image/FARAN MAX STEF.JPG" width="400">
 
 # Formula SAE: GeeGee Racing Team
-#### Member since February 2024
+### </dd> Drivetrain Lead and Proud Member since February 2024
 
-Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on time, my primary focus has been on aerodynamics and structural design, where I worked on developing side pods using foam core composites and carbon fiber layups. I also contributed to data acquisition efforts, incorporating sensors to measure downforce and temperature for performance evaluation.
 
-I am currently focusing on redesigning the undertray for the 2026 model and have taken on utilizing CFD analysis to assess the performance of my design and overall refine the quality of the aerodynamic package. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. This past year has deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
+Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on the team I have bounced around roles, learning different components of the car through varying substeams. I began my journey as an aerodynamics associate where my studies revolved structural design and carbon fiber airfoil construction and have since become drivetrain lead where I analyse on-track telemetry and compare it to theoretical values for drive optimization. 
+
+I am currently focusing on a slip angle analysis for oversteer/understeer and am in the beginning stages of a differential simulation. I am also taking on the redesign of the differential mounts with new changes being implemented to the engine and frame, thus requiring FEA and in depth load case analyses. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. These past years have deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
 
 <img src="assets/image/FAST CAR cropped.JPG">
 
@@ -26,6 +27,7 @@ I am currently focusing on redesigning the undertray for the 2026 model and have
 
 As part of a group of six, built a physical system constituting a cart with an inverted pendulum attached to it. Sourced standard electrical and mechanical components, such as wires, a DC motor, rails, fasteners, a belt drive, and other ancillary components. Carefully assembled the mechanical system. Using an Arduino Uno R3 microcontroller, a provided US Digital absolute angular encoder, and several software suites, tuned a PID (Proportional, Integral, Derivative) controller to keep the pendulum upright in response to perturbations to the system. Successfully presented the finished system to controls and system dynamics experts, and wrote a comprehensive report detailing the design and controller tuning processes. Associated with the MCG 3307 (Control Systems) course at the University of Ottawa.
 
+### Check Out The Video Below!
 [![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
 
 # Machine Dynamics Simulation
@@ -33,6 +35,8 @@ As part of a group of six, built a physical system constituting a cart with an i
 
 As part of a group of three, simulated the movement of a pair of machines using MATLAB. Performed a preliminary analysis by hand, conceived an outline for the MATLAB script using a code flowchart, and carried out the code to obtain graphical representations of the machinery’s movement for a range of input conditions. Presented all of the acquired findings succinctly in a report. Associated with the MCG 3130 (Dynamics of Machinery) course at the University of Ottawa.
 
+Link to simulation 1 [here](https://github.com/user-attachments/files/23535894/MCG3130.Simulation.1.-.Bryn.Stefanie.Amanda.pdf) <br />
+Link to simulation 2 [here](https://github.com/user-attachments/files/23535904/MCG3130.Simulation.2.-.Bryn.Amanda.Stefanie.pdf)
 
 # Active Dynamic Spoiler
 #### uOttawa System Dynamics Course [Sept-Dec 2024]
@@ -41,7 +45,7 @@ As part of a course, my team and I developed an active rear aerodynamic spoiler 
 
 Link to project report [here](https://github.com/user-attachments/files/19041637/MCG.3306.-.Final.Project.Report.pdf)
 
-<img src="assets/image/car.jpg" width="280"> <img src="assets/image/AnglesPlotted vs Time.png" width="390">
+<img src="assets/image/car.jpg" width="300"> <img src="assets/image/AnglesPlotted vs Time.png" width="390">
 
 # Aerodynamic Data Acquisition System: Research
 #### uOttawa Electrical Engineering Course [Sept-Dec 2024]
