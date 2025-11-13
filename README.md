@@ -19,7 +19,18 @@ Over the past year, I've been a proud member of the Formula Student Team at the 
 
 I am currently focusing on redesigning the undertray for the 2026 model and have taken on utilizing CFD analysis to assess the performance of my design and overall refine the quality of the aerodynamic package. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. This past year has deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
 
-<img src="assets/image/FAST CAR.JPG">
+<img src="assets/image/FAST CAR cropped.JPG">
+
+# Inverted Pendulum with PID Controller
+#### uOttawa Control Systems Course [Jan-April 2025]
+
+As part of a group of six, built a physical system constituting a cart with an inverted pendulum attached to it. Sourced standard electrical and mechanical components, such as wires, a DC motor, rails, fasteners, a belt drive, and other ancillary components. Carefully assembled the mechanical system. Using an Arduino Uno R3 microcontroller, a provided US Digital absolute angular encoder, and several software suites, tuned a PID (Proportional, Integral, Derivative) controller to keep the pendulum upright in response to perturbations to the system. Successfully presented the finished system to controls and system dynamics experts, and wrote a comprehensive report detailing the design and controller tuning processes. Associated with the MCG 3307 (Control Systems) course at the University of Ottawa.
+
+
+# Machine Dynamics Simulation
+#### uOttawa Dynamics of Machinery Course [Jan-April 2025]
+
+As part of a group of three, simulated the movement of a pair of machines using MATLAB. Performed a preliminary analysis by hand, conceived an outline for the MATLAB script using a code flowchart, and carried out the code to obtain graphical representations of the machinery’s movement for a range of input conditions. Presented all of the acquired findings succinctly in a report. Associated with the MCG 3130 (Dynamics of Machinery) course at the University of Ottawa.
 
 
 # Active Dynamic Spoiler
