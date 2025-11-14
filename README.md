@@ -27,11 +27,8 @@ I am currently focusing on a slip angle analysis for oversteer/understeer and am
 As part of a group of six, built a physical system constituting a cart with an inverted pendulum attached to it. Sourced standard electrical and mechanical components, such as wires, a DC motor, rails, fasteners, a belt drive, and other ancillary components. Carefully assembled the mechanical system. Using an Arduino Uno R3 microcontroller, a provided US Digital absolute angular encoder, and several software suites, tuned a PID (Proportional, Integral, Derivative) controller to keep the pendulum upright in response to perturbations to the system. Successfully presented the finished system to controls and system dynamics experts, and wrote a comprehensive report detailing the design and controller tuning processes. Associated with the MCG 3307 (Control Systems) course at the University of Ottawa.
 
 ### Check Out The Video Below!
-<div align="center">
+[![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
   
-  [![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
-  
-</div>
 
 # Machine Dynamics Simulation
 #### uOttawa Dynamics of Machinery Course [Jan-April 2025]
