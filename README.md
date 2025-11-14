@@ -10,11 +10,10 @@ Welcome to my portfolio, where I showcase my engineering projects, research, and
 As a fourth-year Mechanical Engineering student at the University of Ottawa, I have worked on many projects, from designing an active dynamic spoiler to developing an early warning malt and dust sensor for an industrial brewery. My experience spans structural design, sensor integration, and inclusive engineering, such as creating an accessible play table for children with disabilities. Through coursework and hands-on projects, including my involvement in Formula SAE as Drivetrain Lead, I apply system design, aerodynamics, and data acquisition to real-world challenges. Explore my portfolio, ordered by most recent completion, to see how I have been able to bring analytical thinking and creativity to engineering solutions alongside my peers.
 
 
-<img style="margin-right: 30px" img src="assets/image/GRP PIC.JPG" width="340"> <img src="assets/image/FARAN MAX STEF.JPG" width="340">
+<img src="assets/image/GRP PIC.JPG" width="340"> <img src="assets/image/FARAN MAX STEF.JPG" width="340">
 
 # Formula SAE: GeeGee Racing Team
 ### Drivetrain Lead and Proud Member since February 2024
-
 
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on the team I have bounced around roles, learning different components of the car through varying substeams. I began my journey as an aerodynamics associate where my studies revolved structural design and carbon fiber airfoil construction and have since become drivetrain lead where I analyse on-track telemetry and compare it to theoretical values for drive optimization. 
 
@@ -28,7 +27,10 @@ I am currently focusing on a slip angle analysis for oversteer/understeer and am
 As part of a group of six, built a physical system constituting a cart with an inverted pendulum attached to it. Sourced standard electrical and mechanical components, such as wires, a DC motor, rails, fasteners, a belt drive, and other ancillary components. Carefully assembled the mechanical system. Using an Arduino Uno R3 microcontroller, a provided US Digital absolute angular encoder, and several software suites, tuned a PID (Proportional, Integral, Derivative) controller to keep the pendulum upright in response to perturbations to the system. Successfully presented the finished system to controls and system dynamics experts, and wrote a comprehensive report detailing the design and controller tuning processes. Associated with the MCG 3307 (Control Systems) course at the University of Ottawa.
 
 ### Check Out The Video Below!
-[![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
+<div align="center">
+  
+  [![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
+  </div>
 
 # Machine Dynamics Simulation
 #### uOttawa Dynamics of Machinery Course [Jan-April 2025]
@@ -77,8 +79,9 @@ The project combined ergonomic design, user-centered engineering, and manufactur
 
 Link to project report [here](https://github.com/user-attachments/files/19041704/MCG2101_Final_Report.pdf)
 
-<img src="assets/image/accessible_table.png" width="460">
-
+<p align="center">
+  <img src="assets/image/accessible_table.png" width="460">
+</p>
 
 # Pratt Truss Bridge Construction: A Structural Engineering Success 
 #### uOttawa Mechanics of Materials Course [Jan-Apr 2023]
@@ -92,8 +95,10 @@ Using S-Frame and SolidWorks, we conducted extensive simulations and structural 
 This project showcases our expertise in structural design, engineering analysis, and collaborative problem-solving, reinforcing our ability to apply academic knowledge to real-world engineering challenges.
 
 Link to project report [here](https://github.com/user-attachments/files/19041701/CVG2140_Final_Report.pdf)
+<p align="center">
+  <img src="assets/image/Solidoworks_Bridge.png" width="460">
+</p>
 
-<img src="assets/image/Solidoworks_Bridge.png" width="460">
 
 
 
