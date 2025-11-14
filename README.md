@@ -30,7 +30,8 @@ As part of a group of six, built a physical system constituting a cart with an i
 <div align="center">
   
   [![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
-  </div>
+  
+</div>
 
 # Machine Dynamics Simulation
 #### uOttawa Dynamics of Machinery Course [Jan-April 2025]
