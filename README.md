@@ -17,6 +17,10 @@ As a fourth-year Mechanical Engineering student at the University of Ottawa, I h
 
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on the team I have bounced around roles, learning different components of the car through varying substeams. I began my journey as an aerodynamics associate where my studies revolved structural design and carbon fiber airfoil construction and have since become drivetrain lead where I analyse on-track telemetry and compare it to theoretical values for drive optimization. 
 
+<p align="center">
+  <img src="assets/image/IMG_0189 CROPPED.PNG" width="300">
+</p>
+
 I am currently focusing on a slip angle analysis for oversteer/understeer and am in the beginning stages of a differential simulation. I am also taking on the redesign of the differential mounts with new changes being implemented to the engine and frame, thus requiring FEA and in depth load case analyses. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. These past years have deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
 
 <img src="assets/image/FAST CAR cropped.JPG">
