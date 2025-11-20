@@ -18,7 +18,7 @@ As a fourth-year Mechanical Engineering student at the University of Ottawa, I h
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on the team I have bounced around roles, learning different components of the car through varying substeams. I began my journey as an aerodynamics associate where my studies revolved structural design and carbon fiber airfoil construction and have since become drivetrain lead where I analyse on-track telemetry and compare it to theoretical values for drive optimization. 
 
 <p align="center">
-  <img src="assets/image/IMG_0189 CROPPED.PNG" width="300">
+  <img src="assets/image/FEA_DiffMounts.png" width="360"> <img src="assets/image/WhatsApp Image 2025-11-18 at 12.51.51_be3e11fd.jpg" width="340">
 </p>
 
 I am currently focusing on a slip angle analysis for oversteer/understeer and am in the beginning stages of a differential simulation. I am also taking on the redesign of the differential mounts with new changes being implemented to the engine and frame, thus requiring FEA and in depth load case analyses. This has allowed me to develop skills in research and data retrieval and has allowed me to be creative in my work, where I find true joy in being an engineering student. Beyond technical work, I’ve gained valuable experience in cross-functional collaboration, working closely with other subteams such as powertrain to integrate aerodynamic and cooling solutions efficiently. These past years have deepened my expertise in motorsports engineering, reinforcing my passion for high-performance vehicle development.
@@ -31,8 +31,19 @@ I am currently focusing on a slip angle analysis for oversteer/understeer and am
 As part of a group of six, built a physical system constituting a cart with an inverted pendulum attached to it. Sourced standard electrical and mechanical components, such as wires, a DC motor, rails, fasteners, a belt drive, and other ancillary components. Carefully assembled the mechanical system. Using an Arduino Uno R3 microcontroller, a provided US Digital absolute angular encoder, and several software suites, tuned a PID (Proportional, Integral, Derivative) controller to keep the pendulum upright in response to perturbations to the system. Successfully presented the finished system to controls and system dynamics experts, and wrote a comprehensive report detailing the design and controller tuning processes. Associated with the MCG 3307 (Control Systems) course at the University of Ottawa.
 
 ### Check Out The Video Below!
-[![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI)
-  
+[![Pendulum Project](https://img.youtube.com/vi/ZPMViX1rRVI/0.jpg)](https://www.youtube.com/watch?v=ZPMViX1rRVI) 
+
+# Fluid Dynamics CFD
+#### uOttawa Fluid Dynamics II Course [Jan-April 2025]
+
+In a fluids dynamics course my peers and I conducted a mathematical analysis of a steady and axisymmetric flow of water within a closed ASME Standard venturi tube system. Star CCM+ was uses to conduct CFD and algorithmically study the difference between laminar and turbulent flow. With given properties, the following provided report dives into a detailed analysis, discussing flow developement, mesh selection, common discretization errors seen, and  plot comparisons. 
+
+<p align="center">
+  <img src="assets/image/CFD_VenturiTube_1.png" width="360"> <img src="assets/image/CFD_VenturiTube2.png" width="360"> 
+</p>
+
+Link to project report [here](https://github.com/user-attachments/files/23662866/CFD.DOCUMENT.1.pdf)
+
 
 # Machine Dynamics Simulation
 #### uOttawa Dynamics of Machinery Course [Jan-April 2025]
