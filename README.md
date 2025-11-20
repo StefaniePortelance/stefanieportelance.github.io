@@ -12,7 +12,7 @@ As a fourth-year Mechanical Engineering student at the University of Ottawa, I h
 
 <img src="assets/image/GRP PIC.JPG" width="340"> <img src="assets/image/FARAN MAX STEF.JPG" width="340">
 
-# Formula SAE: GeeGee Racing Team
+# Formula SAE: Racing Team
 ### Drivetrain Lead and Proud Member since February 2024
 
 Over the past year, I've been a proud member of the Formula Student Team at the University, and I have been lucky enough to have taken on memorable engineering challenges and projects, refining both my technical and problem-solving skills. Throughout my time on the team I have bounced around roles, learning different components of the car through varying substeams. I began my journey as an aerodynamics associate where my studies revolved structural design and carbon fiber airfoil construction and have since become drivetrain lead where I analyse on-track telemetry and compare it to theoretical values for drive optimization. 
