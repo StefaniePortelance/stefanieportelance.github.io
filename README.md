@@ -36,7 +36,7 @@ As part of a group of six, built a physical system constituting a cart with an i
 # Fluid Dynamics CFD
 #### uOttawa Fluid Dynamics II Course [Jan-April 2025]
 
-In a fluids dynamics course my peers and I conducted a mathematical analysis of a steady and axisymmetric flow of water within a closed ASME Standard venturi tube system. Star CCM+ was uses to conduct CFD and algorithmically study the difference between laminar and turbulent flow. With given properties, the following provided report dives into a detailed analysis, discussing flow developement, mesh selection, common discretization errors seen, and  plot comparisons. 
+In a fluids dynamics course my peers and I conducted a mathematical analysis of a steady and axisymmetric flow of water within a closed ASME Standard venturi tube system. Star CCM+ was used to conduct CFD and algorithmically study the difference between laminar and turbulent flow. With given properties, the following provided report dives into a detailed analysis discussing flow developement, mesh selection, common discretization errors seen, and  plot comparisons for both laminar and turbulent cases. 
 
 <p align="center">
   <img src="assets/image/CFD_VenturiTube_1.png" width="360"> <img src="assets/image/CFD_VenturiTube2.png" width="360"> 
